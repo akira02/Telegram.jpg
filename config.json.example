@@ -1,0 +1,12 @@
+{
+  "bot": {
+    "token": "<Telegram bot api token>"
+  },
+  "cse": {
+    "key": "<google custom search API key>",
+    "cx": "<google custom search engine ID>"
+  },
+  "params": {
+    "safe": "medium"
+  }
+}
